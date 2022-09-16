@@ -18,7 +18,7 @@ body{
 
 .window{
     display: inline-block;
-    width: 40vw;
+    width: 60vw;
     aspect-ratio: 3/2.6;
     background-repeat: no-repeat;
     background-image: url('./window.png');
