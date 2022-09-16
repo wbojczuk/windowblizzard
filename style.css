@@ -22,7 +22,8 @@ body{
     aspect-ratio: 3/2.6;
     background-repeat: no-repeat;
     background-image: url('./window.png');
-    background-size: 100%;
+    background-size: 120%;
+    background-position: center;
     box-shadow: 4px 10px 15px #000;
     
 }
@@ -65,7 +66,7 @@ body{
     position: absolute;
     background-repeat: no-repeat;
     top: 25%;
-    left: -20%;
+    left: -30%;
     animation: cloud1 40s 13s infinite linear;
     filter: drop-shadow(-2vw 16vw 30px rgba(0, 0, 0, 0.6)) !important;
 }
@@ -107,7 +108,7 @@ body{
     z-index: 5;
     position: absolute;
     bottom: 20%;
-    right: 5%;
+    right: 0%;
 }
 
 
@@ -174,7 +175,7 @@ body{
         z-index: 5;
         position: absolute;
         top: 20%;
-        left: -10%;
+        left: -40%;
         
 }
 
