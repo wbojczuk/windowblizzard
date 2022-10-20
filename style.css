@@ -94,7 +94,6 @@ body{
     background: url('crow.gif');
     background-size: contain;
     background-repeat: no-repeat;
-    filter: drop-shadow(-10vw 40vw 20px rgba(0, 0, 0, 0.452)) !important;
     
 }
 .tree-anim{
